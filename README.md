@@ -1,4 +1,3 @@
-```markdown
 # 📚 Online Examination System
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com)
