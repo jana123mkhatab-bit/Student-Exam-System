@@ -14,7 +14,48 @@ A comprehensive console-based Online Examination System supporting three user ro
 - **Data Persistence** – All data saved locally using Java Serialization (.ser files)
 - **CRUD Operations** – Full management for Users, Exams, and Results
 - **Search Functionality** – Search users by ID, email, or name
+## 🖼️ Application Gallery
 
+### 🔐 Authentication
+The entry point of the application, featuring secure role-based access control.
+<p align="center">
+  <img src="screenshots/login_screen.png" width="60%" alt="Login Screen">
+</p>
+
+---
+
+### 👥 User Dashboards
+The system dynamically renders a unique interface based on the logged-in user's permissions.
+
+| Admin Dashboard | Instructor Dashboard | Student Dashboard |
+| :---: | :---: | :---: |
+| ![Admin](screenshots/admin_dash.png) | ![Instructor](screenshots/instructor_dash.png) | ![Student](screenshots/student_dash.png) |
+
+---
+
+### 📝 Exam Management & Workflow
+<details>
+<summary><b>Click to expand: View Exam Creation & Student Experience</b></summary>
+
+#### 🛠️ Instructor: Creating an Exam
+An intuitive interface for instructors to build exams, add polymorphic questions, and set time constraints.
+<p align="center">
+  <img src="screenshots/instructor_putting_exam.png" width="80%" alt="Creating Exam">
+</p>
+
+#### ✍️ Student: Examination Interface
+The clean, focused environment where students answer questions with an active session timer.
+<p align="center">
+  <img src="screenshots/exam_dashboard.png" width="80%" alt="Exam Interface">
+</p>
+
+#### 🏁 Submission & Instant Feedback
+The final step showing the grading engine's automated results and performance summary.
+<p align="center">
+  <img src="screenshots/submitting_exam.png" width="80%" alt="Submitting Exam">
+</p>
+
+</details>
 ## 👥 User Roles
 
 | Role | Capabilities |
