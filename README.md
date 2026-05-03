@@ -30,19 +30,19 @@ The system dynamically scales the interface based on user permissions.
 #### 🛡️ Admin Dashboard
 Full control over user management, system logs, and global exam oversight.
 <p align="center">
-  <img src="screenshots/admin_dash.png" width="90%" alt="Admin Dashboard">
+  <img src="screenshots/admin_dash.png" width="60%" alt="Admin Dashboard">
 </p>
 
 #### 🎓 Instructor Dashboard
 A specialized workspace for managing question banks and monitoring class performance.
 <p align="center">
-  <img src="screenshots/instructor_dash.png" width="90%" alt="Instructor Dashboard">
+  <img src="screenshots/instructor_dash.png" width="60%" alt="Instructor Dashboard">
 </p>
 
 #### 👤 Student Dashboard
 A streamlined view for students to track their progress and access available assessments.
 <p align="center">
-  <img src="screenshots/student_dash.png" width="90%" alt="Student Dashboard">
+  <img src="screenshots/student_dash.png" width="60%" alt="Student Dashboard">
 </p>
 
 ---
