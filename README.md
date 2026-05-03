@@ -1,6 +1,6 @@
 # 📚 Online Examination System
 
-A comprehensive console-based Online Examination System supporting three user roles (Admin, Instructor, Student) with automatic grading, exam creation, and persistent data storage.
+A comprehensive GUI Online Examination System supporting three user roles (Admin, Instructor, Student) with automatic grading, exam creation, and persistent data storage.
 
 ## ✨ Features
 
