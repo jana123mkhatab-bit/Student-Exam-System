@@ -133,7 +133,7 @@ Online-Examination-System/
 
 | Component | Technology |
 |-----------|------------|
-| Language | Java 8+ |
+| Language | Java 21 |
 | Persistence | Java Serialization |
 | Design Pattern | Generic Interface (IManager<T>) |
 | Architecture | Layered (Models → Services → UI) |
