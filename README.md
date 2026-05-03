@@ -1,7 +1,7 @@
 # 📚 Online Examination System
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 A comprehensive console-based Online Examination System supporting three user roles (Admin, Instructor, Student) with automatic grading, exam creation, and persistent data storage.
 
