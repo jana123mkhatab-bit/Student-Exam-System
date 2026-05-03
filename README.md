@@ -24,12 +24,26 @@ The entry point of the application, featuring secure role-based access control.
 
 ---
 
-### 👥 User Dashboards
-The system dynamically renders a unique interface based on the logged-in user's permissions.
+### 👥 Role-Based Dashboards
+The system dynamically scales the interface based on user permissions.
 
-| Admin Dashboard | Instructor Dashboard | Student Dashboard |
-| :---: | :---: | :---: |
-| ![Admin](screenshots/admin_dash.png) | ![Instructor](screenshots/instructor_dash.png) | ![Student](screenshots/student_dash.png) |
+#### 🛡️ Admin Dashboard
+Full control over user management, system logs, and global exam oversight.
+<p align="center">
+  <img src="screenshots/admin_dash.png" width="90%" alt="Admin Dashboard">
+</p>
+
+#### 🎓 Instructor Dashboard
+A specialized workspace for managing question banks and monitoring class performance.
+<p align="center">
+  <img src="screenshots/instructor_dash.png" width="90%" alt="Instructor Dashboard">
+</p>
+
+#### 👤 Student Dashboard
+A streamlined view for students to track their progress and access available assessments.
+<p align="center">
+  <img src="screenshots/student_dash.png" width="90%" alt="Student Dashboard">
+</p>
 
 ---
 
