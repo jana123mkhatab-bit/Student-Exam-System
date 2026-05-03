@@ -163,26 +163,6 @@ The system creates three files automatically:
 | Login fails | Use default admin or register new user |
 | Can't retake exam | Feature – prevents duplicate submissions |
 
-## 🚧 Future Enhancements
 
-- Database integration (MySQL/PostgreSQL)
-- Graphical UI (JavaFX)
-- Exam timeout with auto-submission
-- Export results to PDF/CSV
-- Password encryption
 
-## 👨‍💻 Author
 
-**Jana**
-
----
-
-⭐ Star this repository if you found it useful!
-```
-
-**This version is:**
-- ✅ Complete enough for GitHub
-- ✅ Formatted properly with badges, tables, and code blocks
-- ✅ Contains all essential information
-- ✅ Scannable (developers can find what they need in 30 seconds)
-- ✅ Professional-looking for your portfolio
